@@ -1,0 +1,30 @@
+.home {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background-image: url('C:\Users\s3513\plant-store\public\background-image.jpg'); /* مسار صورة الخلفية */
+    background-size: cover; /* تغطية الصورة للخلفية */
+    height: 100vh; /* ارتفاع الصفحة بالكامل */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white; /* لون النص */
+    text-align: center;
+}
+
+.start-button {
+    padding: 10px 20px;
+    background-color: #007BFF; /* لون الزر */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.start-button:hover {
+    background-color: #0056b3; /* لون الزر عند التمرير */
+}
