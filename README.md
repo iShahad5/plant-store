@@ -14,7 +14,7 @@ To get started with the Plant Store project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iShahad5/project3.git
+   git clone https://github.com/iShahad5/plant-store.git
    
 2. Navigate to the project directory:
    ```bash
