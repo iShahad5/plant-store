@@ -37,7 +37,7 @@ We welcome contributions to the Plant Store project! If you'd like to contribute
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Live Demo
-You can view the project live at [Your Live Demo Link Here].
+You can view the project live at [[Shahad](https://ishahad5.github.io/plant-store/)].
 
 ## Contact
 For any inquiries or feedback, please reach out to me at [s35135518@gmail.com].
