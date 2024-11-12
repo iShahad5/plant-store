@@ -14,7 +14,7 @@ To get started with the Plant Store project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/plant-store.git
+   git clone https://github.com/iShahad5/project3.git
    
 2. Navigate to the project directory:
    ```bash
@@ -37,7 +37,7 @@ We welcome contributions to the Plant Store project! If you'd like to contribute
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Live Demo
-You can view the project live at [http://].
+You can view the project live at [https://ishahad5.github.io/project3/].
 
 ## Contact
 For any inquiries or feedback, please reach out to me at [s35135518@gmail.com].
